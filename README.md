@@ -11,6 +11,8 @@
 
 ## Для демонстрации проекта записан видео-обзор дашбордов (в целях корпоративной безопасности все реальные данные намеренно замазаны).
 
+[![Watch the demo](<img width="969" height="529" alt="image" src="https://github.com/user-attachments/assets/e7e0ba93-72a2-4dc9-9798-6626fd5a001a" />)](Procurement_KPI_Dashboard.mp4)
+
 ---
 
 ## Архитектура
